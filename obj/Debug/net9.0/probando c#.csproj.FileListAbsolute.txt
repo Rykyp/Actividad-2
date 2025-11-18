@@ -1,0 +1,14 @@
+C:\Users\rykyp\probando c#\bin\Debug\net9.0\probando c#.exe
+C:\Users\rykyp\probando c#\bin\Debug\net9.0\probando c#.deps.json
+C:\Users\rykyp\probando c#\bin\Debug\net9.0\probando c#.runtimeconfig.json
+C:\Users\rykyp\probando c#\bin\Debug\net9.0\probando c#.dll
+C:\Users\rykyp\probando c#\bin\Debug\net9.0\probando c#.pdb
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.AssemblyInfoInputs.cache
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.AssemblyInfo.cs
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.csproj.CoreCompileInputs.cache
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.dll
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\refint\probando c#.dll
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.pdb
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\probando c#.genruntimeconfig.cache
+C:\Users\rykyp\probando c#\obj\Debug\net9.0\ref\probando c#.dll
